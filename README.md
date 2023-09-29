@@ -10,7 +10,7 @@
 
 ![image](https://github.com/melek227/Product_services/assets/62296109/a626f316-dd63-4909-9b90-6e0b0fee63b3)
 
-========================MİKROSERVİS PROJESİNİN OLUŞTURULMASI===============
+========================MİKROSERVİS PROJESİNİN OLUŞTURULMASI==============
 
 ![image](https://github.com/melek227/Product_services/assets/62296109/332d1eff-eb00-431d-9945-f1cbb97c0a0d)
 ![image](https://github.com/melek227/Product_services/assets/62296109/2f213241-34c0-4155-924c-c803f228c34b)
