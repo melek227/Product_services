@@ -20,12 +20,9 @@
 ![image](https://github.com/melek227/Product_services/assets/62296109/776e59de-e407-4055-951e-7d52fe58e8b8)
 
 ![image](https://github.com/melek227/Product_services/assets/62296109/fb2cc953-bd99-4e4a-8334-05d13228dbfb)
-
 ![image](https://github.com/melek227/Product_services/assets/62296109/8f2984a0-aad3-48a5-b71a-8bcdbee9b596)
-
 ![image](https://github.com/melek227/Product_services/assets/62296109/0d660d4d-702d-4ec0-bca6-07e177f1f2fd)
 ![image](https://github.com/melek227/Product_services/assets/62296109/2f64dbb0-12b1-4ebb-93cf-219b1aa003a0)
-
 ![image](https://github.com/melek227/Product_services/assets/62296109/becc2aaa-f9f2-40a6-abb9-eeee35fa7ff2)
 ![image](https://github.com/melek227/Product_services/assets/62296109/6667e712-42ce-43d7-834a-1c5e960844e2)
 
