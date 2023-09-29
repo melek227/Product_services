@@ -36,6 +36,9 @@
 =======================KONSOLDA LOGLAR GÖZÜKMÜYORSA=====================
 ![image](https://github.com/melek227/Product_services/assets/62296109/33eb7247-6a73-4d41-b67b-648f8b89df2a)
 ![image](https://github.com/melek227/Product_services/assets/62296109/111ed588-2d37-4c99-9b0f-037df00867e2)
+====================SADECE EKLENEN LOGLARI GÖSTERMEK İÇİN=================
+![image](https://github.com/melek227/Product_services/assets/62296109/8b94e329-fcbb-4628-8975-732e52158436)
+
 
 
 
